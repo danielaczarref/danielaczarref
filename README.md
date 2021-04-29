@@ -54,4 +54,4 @@
 - 💬 As B'Elanna Torres would say...
 
 
-<img align="center" alt="HTML5" height="500px" width="800px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/e3b602bef79251b9244b3ee1d3adcbfc.jpg" /></a>
+<img align="middle" alt="HTML5" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/e3b602bef79251b9244b3ee1d3adcbfc.jpg" /></a>
