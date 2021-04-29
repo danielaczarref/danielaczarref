@@ -24,7 +24,7 @@
 <!-- - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee  -->
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Through science and technologies all things are possible so jot that down! And ALL code should be indented! haha 🤓
-- 🤔Currently working as front-end software developer with React-Native and React.js
+- 🤔 Currently working as front-end software developer with React-Native and React.js
 
 
 ### Languages & Frameworks:
