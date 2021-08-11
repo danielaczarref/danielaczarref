@@ -10,12 +10,12 @@
 <br />
 <br />
   
-- 💼 Computer Engineering Student (75% and counting...)
+- 💼 Computer Engineering Student (85% and counting...)
 - ✍🏻 Fullstack Dev
 - 🌱 Main interests:
   - Embedded systems
   - Distributed systems
-  - Software development (mobile and web applications)
+  - Software development (APIs, mobile and web applications)
   - Cloud computing
   - Numerical analysis and linear systems analysis
 <!-- - 👯 I’m looking to collaborate on ... -->
