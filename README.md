@@ -10,7 +10,7 @@
 <br />
 <br />
   
-- 💼 Computer Engineering Student (90% and counting...)
+- 💼 Computer Engineer
 - ✍🏻 Fullstack Dev
 - 🌱 Main interests:
   - Embedded systems
