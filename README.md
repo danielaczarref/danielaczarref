@@ -13,10 +13,10 @@
 - 💼 Computer Engineer
 - ✍🏻 Fullstack Dev
 - 🌱 Main interests:
-  - Embedded systems
-  - Distributed systems
-  - Software development (APIs, mobile and web applications)
-  - Cloud computing
+  - Hybrid mobile development
+  - React Native / ReactJS
+  - Web Content Accessibility Guidelines (WCAG)
+  - Design System and Components Development
   - Numerical analysis and linear systems analysis
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
