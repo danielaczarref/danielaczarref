@@ -3,9 +3,7 @@
 ## Welcome to my Github! <img src="https://github.com/danielaczarref/danielaczarref/blob/main/img/pngwing.com.png" width="30px">
 
 <a href="https://www.linkedin.com/in/danielaczarref" target="_blank"><img align="left" alt="Daniela Carvalho | LinkedIn" width="22px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/linkedin.png" />
-<a href="https://www.instagram.com/danielaczarref/" target="_blank"><img align="left" alt="Daniela Carvalho | Instagram" width="22px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/instagram.webp" />
 <a href="https://medium.com/@daniela.czarref" target="_blank"><img align="left" alt="Rafael Fernandes Lopes | Medium" width="22px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/medium2.png" />
-  <a href="https://dev.to/danielaczarref" target="_blank"><img align="left" alt="dev to danielaczarref" width="22px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/dev.jpg" /></a>
 
 <br />
 <br />
