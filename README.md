@@ -11,18 +11,18 @@
 - 💼 Computer Engineer
 - ✍🏻 Fullstack Dev
 - 🌱 Main interests:
-  - Hybrid mobile development
-  - React Native / ReactJS
-  - Web Content Accessibility Guidelines (WCAG)
-  - Design System and Components Development
   - Numerical analysis and linear systems analysis
+  - Hybrid mobile & web development
+  - Web Content Accessibility Guidelines (WCAG)
+  - Software testing & Quality Assurance
+  
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee  -->
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Through science and technologies all things are possible so jot that down! And ALL code should be indented! haha 🤓
-- 🤔 Currently working as front-end software developer with React-Native and React.js
+- 🤔 Enjoy working with a good challenge!
 
 
 ### Languages & Frameworks:
