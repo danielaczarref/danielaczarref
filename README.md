@@ -24,6 +24,7 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Through science and technologies all things are possible so jot that down! And ALL code should be indented! haha 🤓
 - 🤔 Enjoy working with a good challenge!
+- 💬 Communicate first, decide later.
 
 
 ### Languages & Frameworks:
