@@ -12,6 +12,7 @@
 - ✍🏻 Fullstack Dev
 - 🌱 Main interests:
   - Numerical analysis and linear systems analysis
+  - Internet of Things
   - Hybrid mobile & web development
   - Web Content Accessibility Guidelines (WCAG)
   - Software testing & Quality Assurance
