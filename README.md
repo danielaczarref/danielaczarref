@@ -11,11 +11,11 @@
 - 💼 Computer Engineer
 - ✍🏻 Fullstack Dev
 - 🌱 Main interests:
-  - Numerical analysis and linear systems analysis
-  - Internet of Things
+  - Software Engineering
+  - RESTful APIs
   - Hybrid mobile & web development
   - Web Content Accessibility Guidelines (WCAG)
-  - Software testing & Quality Assurance
+  - New challenges and growth opportunities
   
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
