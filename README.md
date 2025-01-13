@@ -30,18 +30,19 @@
 ### Languages & Frameworks:
 
 <div>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/c++.png"/> </a>
+  <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/javascript.webp" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/typescript-logo.png" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.JS" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/node.png" /></a>
+  <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/php-logo.png" /></a>
   <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/python.png"/> </a>
-    <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/javascript.webp" /></a>
-  <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"><img align="left" alt="MATLAB" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/matlab.png" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React.JS" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/react.png" /></a>
   <a href="https://reactnative.dev/" target="_blank"><img align="left" alt="React Native" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/react-native.png" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React.JS" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/react.png" /></a>    
-    <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.JS" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/node.png" /></a>    
-    <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/java.png"/> </a>
-   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img align="left" alt="AWS" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/aws.png"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/docker.svg"/> </a>
-    <a href="https://spring.io/" target="_blank"> <img align="left" alt="Spring" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/spring.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/git.png"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/c++.png"/> </a>
+  <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/java.png"/> </a>
+  <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img align="left" alt="AWS" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/aws.png"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/docker.svg"/> </a>
+  <a href="https://spring.io/" target="_blank"> <img align="left" alt="Spring" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/spring.png"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/git.png"/> </a>
 <br />
 <br />
 
