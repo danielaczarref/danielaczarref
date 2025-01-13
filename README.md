@@ -46,6 +46,16 @@
 <br />
 <br />
 
+### Databases
+<div>
+  <a href="https://www.oracle.com/database/" target="_blank"><img align="left" alt="Oracle DB" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/oracle-logo.png" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/my-sql-logo.png" /></a>
+  <a href="https://www.phpmyadmin.net/" target="_blank"><img align="left" alt="PhpMyAdmin" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/PhpMyAdmin-logo.png" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="26px" src="https://github.com/danielaczarref/danielaczarref/blob/main/img/postgresql-logo.png" /></a>
+  
+<br />
+<br />
+
 ---
 ### Github Stats
 
