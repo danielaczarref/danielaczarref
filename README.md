@@ -13,6 +13,7 @@
 - 🌱 Main interests:
   - Software Engineering
   - RESTful APIs
+  - Solving problems
   - Hybrid mobile & web development
   - Web Content Accessibility Guidelines (WCAG)
   - New challenges and growth opportunities
